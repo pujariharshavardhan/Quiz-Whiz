@@ -326,7 +326,7 @@ const questions = [
         {
           question: "What is the value of 10 ÷ 2 + 3?",
           options: ["8", "7", "9", "6"],
-          correctAnswer: 1,
+          correctAnswer: 0,
         },
         {
           question: "What is 3 × 7 + 2?",
@@ -346,12 +346,12 @@ const questions = [
         {
           question: "What is the value of 2³ × 3?",
           options: ["12", "15", "18", "24"],
-          correctAnswer: 0,
+          correctAnswer: 3,
         },
         {
           question: "What is the value of 10 × (5 + 3)?",
           options: ["80", "70", "60", "50"],
-          correctAnswer: 1,
+          correctAnswer: 0,
         },
         {
           question: "What is the value of 14 × 14?",
